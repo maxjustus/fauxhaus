@@ -1,0 +1,17 @@
+<functions>
+    <function>
+        <type>executable_pool</type>
+        <name>faker</name>
+        <return_type>String</return_type>
+        <argument>
+            <type>String</type>
+            <name>faker_function</name>
+        </argument>
+        <argument>
+            <type>Int64</type>
+            <name>random value</name>
+        </argument>
+        <format>TabSeparated</format>
+        <command>fauxhaus</command>
+    </function>
+</functions>
